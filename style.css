@@ -1,0 +1,140 @@
+
+body{
+	margin: 0;
+	padding: 0;
+	background-image: url(city_image.jpg);
+	background-repeat: no-repeat;
+    background-attachment: fixed;
+	background-size: cover;
+	font-family: sans-serif;
+}
+
+mark{
+	background-color:rgba(0, 0, 0, .7);
+    color: white;
+}
+
+.image_circle{
+	border-radius: 100%;
+	width: 150px;
+	height: 170.9px;
+}
+
+#head_text {
+	margin-top: 20%;
+	line-height: 25px;
+	text-align: center;
+	color: white;
+	font-size: 50px;
+	font-weight: bolder;
+	letter-spacing: 4px
+	background-color: red;
+}
+
+#head_line {
+	line-height: 25px;
+	text-align: center;
+	color: white;
+	font-size: 40px;
+	margin-top: -2%;
+}
+
+#secondHead_text{
+	margin-top: -2%;
+	text-align: center;
+	color: white;
+	font-size: 30px;
+	font-weight: bold;
+}
+
+#box_center{
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+}
+
+.center{
+	text-align: center;
+}
+
+.box{
+	width: 450px;
+	background: rgba(255,255,255, .9);
+	padding: 40px;
+	padding-bottom: 20px;
+	text-align: center;
+	margin-top: 18%;
+	color: black;
+	margin-bottom: 2%;
+	box-shadow: 15px 15px 15px rgba(0, 0, 0, 0.5);
+      
+}
+
+.box h1{
+	font-size: 40px;
+	letter-spacing: 4px;
+	font-weight: 100;
+}
+
+.box h5{
+
+	font-size: 25px;
+	letter-spacing: 3px;
+	font-weight: 100;
+	text-align: justify;
+}
+
+ul{
+  margin: 0;
+  padding:0;
+}
+.box li{
+  display: inline-block;
+  margin: 6px;
+  list-style: none;
+}
+.box li a{
+  color: black;
+  text-decoration: none;
+  font-size: 23px;
+  transition: all ease-in-out 250ms;
+}
+.box li a:hover{
+  color: gray;
+}
+
+
+.button li{
+	border-radius: 100%;
+	margin-top: 86%;
+    border: none;
+    color: black;
+    padding: 15px 32px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 20px;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+.button li: hover{
+	color: blue;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
