@@ -2,7 +2,7 @@
 body{
 	margin: 0;
 	padding: 0;
-	background-image: url(city_image.jpg);
+	background-image: url(colorful_image.jpg);
 	background-repeat: no-repeat;
     background-attachment: fixed;
 	background-size: cover;
@@ -124,7 +124,23 @@ ul{
 }
 
 
+.be_image{
+	border-radius: 20%;
+	width: 150px;
+	height: 150px;
+	margin-left: 7%
+}
 
+.round_image{
+	border-radius: 100%;
+	width: 150px;
+	height: 150px;
+	margin-left: 7%
+}
+
+.left_marg{
+	
+}
 
 
 
